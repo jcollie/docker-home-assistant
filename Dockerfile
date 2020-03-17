@@ -1,6 +1,6 @@
 FROM registry.fedoraproject.org/fedora:31
 
-ARG HASS_VERSION=0.107.0b5
+ARG HASS_VERSION=0.107.0b6
 ARG HASS_CLI_VERSION=0.8.0
 ARG RELEASE=1
 
